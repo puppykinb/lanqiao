@@ -10,3 +10,8 @@ Preparation for the LanQiao Cup
 > typedef long long ll;
 >
 > ll a[n];
+### 竞赛常用库函数
+#### 二分查找
+* 对单调的数组
+* 使用binary_search查找目标元素
+> bool found = binary_search()
