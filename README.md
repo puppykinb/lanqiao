@@ -7,5 +7,5 @@ Preparation for the LanQiao Cup
 * 常量
 > const int n = 1e5;
 * 定义类型
-  typedef long long ll;
-  ll a[n];
+  >typedef long long ll;
+  >ll a[n];
